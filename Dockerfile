@@ -2,14 +2,14 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copia todo el contenido del proyecto (incluyendo subcarpetas)
+# Copiar todo el código
 COPY . .
 
-# Restaura dependencias (usa el .csproj o .sln adecuado)
-RUN dotnet restore "BusinessService/BusinessService.csproj"
+# Restaurar dependencias
+RUN dotnet restore "./BusinessService.csproj"
 
-# Publica la app
-RUN dotnet publish "BusinessService/BusinessService.csproj" -c Release -o /app/publish
+# Publicar aplicación
+RUN dotnet publish "./BusinessService.csproj" -c Release -o /app/publish
 
 # Etapa 2: Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
