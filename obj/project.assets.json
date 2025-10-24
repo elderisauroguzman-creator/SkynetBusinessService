@@ -4360,23 +4360,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joseluis.figueroa\\.nuget\\packages\\": {},
+    "C:\\Users\\elderguzman\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollo Elder\\SkynetServicios\\SkynetServicios\\BusinessService\\BusinessService.csproj",
+      "projectUniqueName": "C:\\Desarrollo\\Proyecto\\GITHUB\\SkynetServicios\\BusinessService\\BusinessService.csproj",
       "projectName": "BusinessService",
-      "projectPath": "C:\\Desarrollo Elder\\SkynetServicios\\SkynetServicios\\BusinessService\\BusinessService.csproj",
-      "packagesPath": "C:\\Users\\joseluis.figueroa\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollo Elder\\SkynetServicios\\SkynetServicios\\BusinessService\\obj\\",
+      "projectPath": "C:\\Desarrollo\\Proyecto\\GITHUB\\SkynetServicios\\BusinessService\\BusinessService.csproj",
+      "packagesPath": "C:\\Users\\elderguzman\\.nuget\\packages\\",
+      "outputPath": "C:\\Desarrollo\\Proyecto\\GITHUB\\SkynetServicios\\BusinessService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\joseluis.figueroa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elderguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4385,6 +4385,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4449,7 +4450,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

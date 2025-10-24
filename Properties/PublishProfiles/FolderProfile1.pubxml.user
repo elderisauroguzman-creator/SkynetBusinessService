@@ -2,8 +2,8 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Desarrollo Elder\SkynetServicios\SkynetServicios\BusinessService\bin\Debug\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-10-23T19:21:12.7950725Z||;True|2025-10-23T11:10:08.8749114-06:00||;True|2025-10-22T09:04:49.8962526-06:00||;</History>
+    <_PublishTargetUrl>C:\Desarrollo\Proyecto\GITHUB\SkynetServicios\BusinessService\bin\Debug\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-10-24T16:52:10.6765169Z||;True|2025-10-23T13:21:12.7950725-06:00||;True|2025-10-23T11:10:08.8749114-06:00||;True|2025-10-22T09:04:49.8962526-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
